@@ -132,9 +132,6 @@ PRODUCT_PACKAGES += \
     android.hardware.memtrack@1.0-impl \
     android.hardware.graphics.composer@2.1-impl
 
-# Doze mode
-PRODUCT_PACKAGES += \
-    OneplusDoze
 
 # Filesystem management tools
 PRODUCT_PACKAGES += \
